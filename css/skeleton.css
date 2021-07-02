@@ -127,10 +127,15 @@ body {
   font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #222; }
 
+.raleway {
+  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
 
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+  font-family: "Pattaya", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin-top: 0;
   margin-bottom: 2rem;
   font-weight: 300; }
